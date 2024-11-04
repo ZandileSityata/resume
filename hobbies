@@ -3,16 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>Zandile Sityata - Hobbies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #004080;
+            font-weight: bold;
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            font-size: 1.1em;
+            margin: 10px 0;
+            color: #555;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-<h1>Zandile's Hobbies</h1>
-<ul>
-    <li>All things tech!</li>
-    <li>Tennis</li>
-    <li>Netflix and Chill</li>
-    <li>Hanging Out</li>
-    <li>Travelling and Sight-seeing</li>
-</ul>
+    <div class="container">
+        <h1>Zandile's Hobbies</h1>
+        <ul>
+            <li>All things tech!</li>
+            <li>Tennis</li>
+            <li>Netflix and Chill</li>
+            <li>Hanging Out</li>
+            <li>Traveling and Sightseeing</li>
+        </ul>
+        
+        <div class="footer">
+            <p>© 2024 Zandile Sityata. All rights reserved.</p>
+        </div>
+    </div>
 </body>
 </html>
